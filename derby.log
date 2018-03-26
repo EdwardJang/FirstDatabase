@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 25 21:27:21 EDT 2018:
+ 클래스 로더 sun.misc.Launcher$AppClassLoader@18b4aac2이(가) 있는 데이터베이스 디렉토리 C:\Users\junbong\IdeaProjects\FirstDatabase\src\resources\NodesDB2에서 
+ Derby 버전 The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): 인스턴스 a816c00e-0162-5fea-b93b-000004e7e690 부팅 중 
+file:/C:/Program%20Files/Java/jdk1.8.0_144/db/lib/derby.jar에서 로드됨
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=C:\Users\junbong\IdeaProjects\FirstDatabase
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+데이터베이스 클래스 로더가 시작됨 - derby.database.classpath=''
